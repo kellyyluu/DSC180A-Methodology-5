@@ -1,6 +1,10 @@
-# Capstone Example Jekyll Website
+# Kelly Luu
+(k6luu@ucsd.edu)
 
-This is about as **barebones** as a Jekyll site can be. All I've done is embed a plotly plot here.
+Section: B10
+Mentor: Liang Tian
 
-<iframe src="assets/example-map.html" width=800 height=600 frameBorder=0></iframe>
+
+
+
 
